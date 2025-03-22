@@ -1,0 +1,10 @@
+scikit-learn
+tensorflow
+opencv-python
+imutils
+scikit-image
+py-sudoku
+streamlit
+matplotlib
+seaborn
+tensorflow_datasets
